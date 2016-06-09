@@ -4,4 +4,4 @@
 ## Goal
 
 * Awesome lazy sexy inventor
- 
+* nice base developer 
